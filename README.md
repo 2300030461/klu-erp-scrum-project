@@ -30,17 +30,15 @@ This project demonstrates the KL University ERP system managed using Scrum metho
 * Testing & Deployment
 
 **Screenshots**
-
 **Backlog**
-![Backlog](backlog.png)
+![Backlog](Backlog.png)
 
 **Board**
-![Board](board.png)
+![Board](Board.png)
 
 **Stories**
-
-![Stories](stories.png)
+![Stories](Stories.png)
 
 **Milestones**
+![Milestones](Milestones.png)
 
-![Milestones](milestones.png)
